@@ -7,6 +7,7 @@ DSA-Problem-Set02
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0940-fruit-into-baskets) |
+| [2529-range-product-queries-of-powers](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2529-range-product-queries-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3791-fruits-into-baskets-iii) |
@@ -45,4 +46,12 @@ DSA-Problem-Set02
 |  |
 | ------- |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2529-range-product-queries-of-powers) |
+## Prefix Sum
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2529-range-product-queries-of-powers) |
 <!---LeetCode Topics End-->
