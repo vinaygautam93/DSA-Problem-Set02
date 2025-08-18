@@ -6,6 +6,7 @@ DSA-Problem-Set02
 ## Array
 |  |
 | ------- |
+| [0679-24-game](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0679-24-game) |
 | [0940-fruit-into-baskets](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0940-fruit-into-baskets) |
 | [2529-range-product-queries-of-powers](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2529-range-product-queries-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -59,6 +60,7 @@ DSA-Problem-Set02
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0679-24-game) |
 | [1448-maximum-69-number](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1448-maximum-69-number) |
 ## Recursion
 |  |
@@ -68,4 +70,8 @@ DSA-Problem-Set02
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1448-maximum-69-number) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
