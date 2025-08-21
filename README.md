@@ -9,6 +9,7 @@ DSA-Problem-Set02
 | [0679-24-game](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0679-24-game) |
 | [0940-fruit-into-baskets](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0940-fruit-into-baskets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1628-count-submatrices-with-all-ones) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2529-range-product-queries-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -45,11 +46,13 @@ DSA-Problem-Set02
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1628-count-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Matrix
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1628-count-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Bit Manipulation
 |  |
@@ -79,4 +82,12 @@ DSA-Problem-Set02
 |  |
 | ------- |
 | [0679-24-game](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0679-24-game) |
+## Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1628-count-submatrices-with-all-ones) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
