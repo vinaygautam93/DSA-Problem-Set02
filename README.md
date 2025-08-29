@@ -83,6 +83,7 @@ DSA-Problem-Set02
 | [0679-24-game](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0679-24-game) |
 | [1448-maximum-69-number](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Recursion
 |  |
 | ------- |
