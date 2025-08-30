@@ -5,7 +5,6 @@ public:
         int n = board.size();
         int m = board[0].size();
 
-        // row coloum 
 
         for( int i = 0; i < 9 ; i ++ ) {
 
@@ -38,7 +37,7 @@ public:
 
         }
 
-        // d
+        
         for( int j = 0; j < 9; j +=3 ) {
             
             for( int i = 0; i < 9; i+=3 ) {
