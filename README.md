@@ -14,6 +14,7 @@ DSA-Problem-Set02
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1628-count-submatrices-with-all-ones) |
+| [1917-maximum-average-pass-ratio](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1917-maximum-average-pass-ratio) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2529-range-product-queries-of-powers) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -98,6 +99,7 @@ DSA-Problem-Set02
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1448-maximum-69-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1917-maximum-average-pass-ratio) |
 ## Backtracking
 |  |
 | ------- |
@@ -119,4 +121,8 @@ DSA-Problem-Set02
 |  |
 | ------- |
 | [3748-sort-matrix-by-diagonals](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3748-sort-matrix-by-diagonals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
