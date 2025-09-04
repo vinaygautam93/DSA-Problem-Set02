@@ -93,6 +93,7 @@ DSA-Problem-Set02
 | [2432-number-of-zero-filled-subarrays](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3830-find-closest-person](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
