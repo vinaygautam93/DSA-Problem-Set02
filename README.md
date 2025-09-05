@@ -80,6 +80,7 @@ DSA-Problem-Set02
 | ------- |
 | [0342-power-of-four](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2529-range-product-queries-of-powers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -136,5 +137,10 @@ DSA-Problem-Set02
 ## Enumeration
 |  |
 | ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
