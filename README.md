@@ -132,6 +132,7 @@ DSA-Problem-Set02
 ## Sorting
 |  |
 | ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
@@ -155,4 +156,8 @@ DSA-Problem-Set02
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2408-number-of-people-aware-of-a-secret) |
+## String
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2887-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
