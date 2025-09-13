@@ -33,6 +33,7 @@ DSA-Problem-Set02
 | [0037-sudoku-solver](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0037-sudoku-solver) |
 | [0940-fruit-into-baskets](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0940-fruit-into-baskets) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1834-minimum-number-of-people-to-teach) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -163,8 +164,13 @@ DSA-Problem-Set02
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Game Theory
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3462-vowels-game-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
