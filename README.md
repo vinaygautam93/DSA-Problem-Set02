@@ -11,6 +11,7 @@ DSA-Problem-Set02
 | [0498-diagonal-traverse](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0679-24-game) |
 | [0940-fruit-into-baskets](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1006-vowel-spellchecker) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1628-count-submatrices-with-all-ones) |
@@ -32,6 +33,7 @@ DSA-Problem-Set02
 | [0036-valid-sudoku](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0037-sudoku-solver) |
 | [0940-fruit-into-baskets](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -162,6 +164,7 @@ DSA-Problem-Set02
 ## String
 |  |
 | ------- |
+| [1006-vowel-spellchecker](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1006-vowel-spellchecker) |
 | [2887-sort-vowels-in-a-string](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3872-find-most-frequent-vowel-and-consonant) |
