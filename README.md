@@ -36,6 +36,7 @@ DSA-Problem-Set02
 | [1006-vowel-spellchecker](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1834-minimum-number-of-people-to-teach) |
+| [3678-design-task-manager](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -61,6 +62,7 @@ DSA-Problem-Set02
 ## Ordered Set
 |  |
 | ------- |
+| [3678-design-task-manager](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3791-fruits-into-baskets-iii) |
 ## Dynamic Programming
@@ -144,6 +146,7 @@ DSA-Problem-Set02
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1917-maximum-average-pass-ratio) |
+| [3678-design-task-manager](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3678-design-task-manager) |
 ## Geometry
 |  |
 | ------- |
@@ -178,4 +181,8 @@ DSA-Problem-Set02
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Design
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
