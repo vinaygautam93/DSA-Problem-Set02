@@ -27,6 +27,7 @@ DSA-Problem-Set02
 | [3748-sort-matrix-by-diagonals](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ DSA-Problem-Set02
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3678-design-task-manager](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -48,6 +50,7 @@ DSA-Problem-Set02
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3827-implement-router) |
 ## Segment Tree
 |  |
 | ------- |
@@ -65,6 +68,7 @@ DSA-Problem-Set02
 | [3678-design-task-manager](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,6 +169,7 @@ DSA-Problem-Set02
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
@@ -185,4 +190,5 @@ DSA-Problem-Set02
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
