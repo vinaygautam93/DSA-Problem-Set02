@@ -19,6 +19,7 @@ DSA-Problem-Set02
 | [1917-maximum-average-pass-ratio](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1917-maximum-average-pass-ratio) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2529-range-product-queries-of-powers) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -37,6 +38,7 @@ DSA-Problem-Set02
 | [1006-vowel-spellchecker](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1834-minimum-number-of-people-to-teach) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -185,6 +187,7 @@ DSA-Problem-Set02
 ## Counting
 |  |
 | ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
