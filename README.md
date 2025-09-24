@@ -34,6 +34,7 @@ DSA-Problem-Set02
 | ------- |
 | [0036-valid-sudoku](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0037-sudoku-solver) |
+| [0166-fraction-to-recurring-decimal](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0166-fraction-to-recurring-decimal) |
 | [0940-fruit-into-baskets](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -106,6 +107,7 @@ DSA-Problem-Set02
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0166-fraction-to-recurring-decimal) |
 | [0342-power-of-four](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0679-24-game) |
 | [1448-maximum-69-number](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1448-maximum-69-number) |
@@ -175,6 +177,7 @@ DSA-Problem-Set02
 ## String
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2887-sort-vowels-in-a-string) |
