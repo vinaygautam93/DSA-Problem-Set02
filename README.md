@@ -8,6 +8,7 @@ DSA-Problem-Set02
 | ------- |
 | [0036-valid-sudoku](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0037-sudoku-solver) |
+| [0120-triangle](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0120-triangle) |
 | [0498-diagonal-traverse](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0679-24-game) |
 | [0940-fruit-into-baskets](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0940-fruit-into-baskets) |
@@ -75,6 +76,7 @@ DSA-Problem-Set02
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0120-triangle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1628-count-submatrices-with-all-ones) |
