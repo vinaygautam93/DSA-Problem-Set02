@@ -11,6 +11,7 @@ DSA-Problem-Set02
 | [0120-triangle](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0120-triangle) |
 | [0498-diagonal-traverse](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1006-vowel-spellchecker) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -112,6 +113,7 @@ DSA-Problem-Set02
 | [0166-fraction-to-recurring-decimal](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0166-fraction-to-recurring-decimal) |
 | [0342-power-of-four](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0830-largest-triangle-area) |
 | [1448-maximum-69-number](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -160,6 +162,7 @@ DSA-Problem-Set02
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Enumeration
 |  |
