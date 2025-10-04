@@ -6,6 +6,7 @@ DSA-Problem-Set02
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0037-sudoku-solver) |
 | [0120-triangle](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0120-triangle) |
@@ -132,6 +133,7 @@ DSA-Problem-Set02
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1917-maximum-average-pass-ratio) |
@@ -211,4 +213,8 @@ DSA-Problem-Set02
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0407-trapping-rain-water-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
