@@ -32,6 +32,7 @@ DSA-Problem-Set02
 | [3748-sort-matrix-by-diagonals](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3791-fruits-into-baskets-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@ DSA-Problem-Set02
 | [2408-number-of-people-aware-of-a-secret](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Ordered Set
 |  |
 | ------- |
@@ -111,6 +113,7 @@ DSA-Problem-Set02
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2529-range-product-queries-of-powers) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
 |  |
 | ------- |
