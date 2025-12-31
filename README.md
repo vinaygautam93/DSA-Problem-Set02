@@ -21,6 +21,7 @@ DSA-Problem-Set02
 | [1628-count-submatrices-with-all-ones](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1628-count-submatrices-with-all-ones) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1917-maximum-average-pass-ratio) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/2529-range-product-queries-of-powers) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -56,6 +57,7 @@ DSA-Problem-Set02
 ## Binary Search
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3790-fruits-into-baskets-ii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3827-implement-router) |
@@ -98,6 +100,7 @@ DSA-Problem-Set02
 | [0498-diagonal-traverse](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1628-count-submatrices-with-all-ones) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -216,8 +219,17 @@ DSA-Problem-Set02
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0407-trapping-rain-water-ii) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/0011-container-with-most-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1970-last-day-where-you-can-still-cross) |
+## Union Find
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/vinaygautam93/DSA-Problem-Set02/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
